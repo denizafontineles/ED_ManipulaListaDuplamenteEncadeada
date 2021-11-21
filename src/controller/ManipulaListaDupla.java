@@ -1,6 +1,16 @@
 package controller;
 import com.deniza.utils.ListaDuplaEncadeadaInt.ListaDuplaEncadeadaInt;
 
+/* 
+ * Considere listas implementadas por encadeamento duplo, então pede-se para implementar funções que:
+ * 
+ * a. Concatenar/intercalar duas listas;
+ * 
+ * b. Dividir uma lista em várias;
+ */
+
+
+
 public class ManipulaListaDupla {
 	
 	public ManipulaListaDupla() {
